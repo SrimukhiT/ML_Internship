@@ -1,4 +1,4 @@
- # Task 1
+ # Task 1  Data Preprocessing
  # Titanic Data Preprocessing for Machine Learning(with Logistic Regression Prediction)
 ## Titanic Survival Prediction using Logistic Regression
 This project uses the Titanic dataset to build a logistic regression model that predicts passenger survival based on various features. The dataset is taken from Kaggle's Titanic challenge and has been processed through multiple steps for effective training and evaluation.
