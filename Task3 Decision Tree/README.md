@@ -1,4 +1,4 @@
-### Titanic Survival Prediction Using Decision Tree Classifier
+# Titanic Survival Prediction Using Decision Tree Classifier
 
 This project uses a Decision Tree Classifier to predict whether a passenger survived the Titanic disaster based on features like age, gender, ticket class, and fare. The dataset used is a cleaned version of the Titanic dataset.
 
